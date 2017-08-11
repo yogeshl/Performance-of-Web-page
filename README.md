@@ -35,7 +35,7 @@ Ways to speed up the website
    Redirects create additional HTTP requests and increase load time. So you want to keep them to a minimum.
 ## 11.Prefer HTTP2 over HTTP1.1
 
-Tools:
+## Tools:
     Chrome Developer Tools, YSlow, Chrome's Built-In Task Manager, Fiddler, Chrome Lighthouse, Page speed,
 
 Reference
