@@ -39,6 +39,6 @@ Ways to speed up the website
     Chrome Developer Tools, YSlow, Chrome's Built-In Task Manager, Fiddler, Chrome Lighthouse, Page speed,
 
 ## Reference
-https://www.crazyegg.com/blog/speed-up-your-website/
-https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237
+    https://www.crazyegg.com/blog/speed-up-your-website/
+    https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237
 
